@@ -1,2 +1,2 @@
 # golearn
-Programs developed while learning Golang
+Programs developed while learning Golang.
